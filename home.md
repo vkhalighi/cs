@@ -20,5 +20,6 @@ provide a wonderful opportunity to tell exciting stories.
 
 I am mostly interested in theoretical computer science, particularly
 [The Art of Computer Programming (TAOCP)](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) but also
-enjoy other areas of computer science closely related to mathematics.
-I am also interested in computer typesetting and <span class="t-logo">T<span class="e">e</span>X</span>.
+enjoy other areas of computer science that are closely related to 
+mathematics. I am also interested in computer typesetting and 
+<span class="t-logo">T<span class="e">e</span>X</span>.
