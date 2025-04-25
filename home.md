@@ -18,7 +18,11 @@ available under the alternative domain [https://maths.ac.nz](https://maths.ac.nz
 I love telling stories through mathematics and mathematical proofs
 provide a wonderful opportunity to tell exciting stories.
 
-I am mostly interested in theoretical computer science, particularly
+I am mostly interested in algebraic geometry and related areas but also
+enjoy mathematics outside algebraic geometry that connects various
+parts of mathematics together.
+
+I am also interested in theoretical computer science, particularly
 [The Art of Computer Programming (TAOCP)](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) but also
 enjoy other areas of computer science that are closely related to 
 mathematics. I am also interested in computer typesetting and 
